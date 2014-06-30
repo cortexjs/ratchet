@@ -1,0 +1,30 @@
+{
+  "name": "ratchet",
+  "version": "2.0.2",
+  "description": "Build mobile apps with simple HTML, CSS, and JS components.",
+  "main": "index.js",
+  "repository": "git://github.com/cortexjs/ratchet.git",
+  "keywords": [
+    "css",
+    "fonts",
+    "ios",
+    "android",
+    "mobile",
+    "prototype"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Connor Sears"
+  },
+  "bugs": {
+    "url": "http://github.com/cortexjs/ratchet/issues"
+  },
+  "homepage": "http://github.com/cortexjs/ratchet",
+  "directories":{
+    "src":"dist"   
+  },
+  "css": "dist/css/ratchet.css",
+  "devDependencies": {
+    "assert": "*"
+  }
+}
