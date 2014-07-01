@@ -2,7 +2,6 @@
   "name": "ratchet",
   "version": "2.0.2",
   "description": "Build mobile apps with simple HTML, CSS, and JS components.",
-  "main": "index.js",
   "repository": "git://github.com/cortexjs/ratchet.git",
   "keywords": [
     "css",
